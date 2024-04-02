@@ -1,6 +1,11 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Clone the Repository
+
+git clone https://github.com/Pushpdeep-2001/TodoList.git
+
+after clonning the repository you can run the following scripts to deploy the application.
 
 ## Available Scripts
 
